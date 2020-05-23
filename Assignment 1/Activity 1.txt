@@ -1,0 +1,9 @@
+start with two pieces of bread
+identify each piece of bread 
+while the first piece of bread does not have two slices of cheese 
+  add two slices of cheese to the first piece of bread 
+while the second piece of bread does not have two pieces of lettuce 
+  add two pieces of lettuce to the first piece of bread 
+if the first piece of bread has two slices of cheese and the second piece of bread has two pieces of lettuce 
+  then place the first piece of bread with the side that has two slices of cheese facing the side of the second piece of bread that has the two pieces of lettuce 
+  else go back to step 1
