@@ -1,9 +1,17 @@
-start with two pieces of bread
-identify each piece of bread 
-while the first piece of bread does not have two slices of cheese 
-  add two slices of cheese to the first piece of bread 
-while the second piece of bread does not have two pieces of lettuce 
-  add two pieces of lettuce to the first piece of bread 
-if the first piece of bread has two slices of cheese and the second piece of bread has two pieces of lettuce 
-  then place the first piece of bread with the side that has two slices of cheese facing the side of the second piece of bread that has the two pieces of lettuce 
-  else go back to step 1
+Get out the bag of Bread, Cheese and lettuce
+Open the Bread bag
+Take out two slices of Bread
+Close the bag of Bread
+Lay the bag of Bread where it was placed before
+Open the bag of Cheese
+Take out two slices of Cheese with your hands
+Put both slices of Cheese in one of the sides of the Bread
+Close the bag of Cheese
+Lay the bag of Cheese where it was placed before
+Open the bag of lettuce
+Take out two pieces of lettuce
+Put the two pieces of lettuce in the other side of the Bread
+Close the bag of lettuce
+Lay the bag of lettuce where it was placed before
+Put both pieces of Bread together with the sides of lettuce and Cheese facing each other 
+Eat the sandwich 
